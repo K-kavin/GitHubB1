@@ -1,5 +1,6 @@
 package programs;
 
-public class TestCase1 {
+public class TestCase1
+{
  
 }
